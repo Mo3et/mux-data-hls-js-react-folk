@@ -46,7 +46,7 @@
       "vsour": "MSE style URL"
     }
   ]
-};
+}
 
 // XHR Request Payload for 6000ms
 {
@@ -143,7 +143,7 @@
       "xid": "614942a9-a107-46a1-82ea-c2c119c034ce",
       "vid": "bXV4LmNhaXRvdXl1bi5jb20vdW5kZWZpbmVk",
       "sex": 1628787448453.1,
-      "e": "ended"
+      "e": "ended" //触发状态 
     }
   ]
 }
