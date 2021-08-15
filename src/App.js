@@ -27,18 +27,19 @@ export default function VideoPlayer() {
       }
 
       mux.monitor(video, {
-        debug: false,
+        debug: true,
         // pass in the 'hls' instance and the 'Hls' constructor
         hlsjs: hls,
         Hls,
         data: {
-          env_key: "ENV_KEY", // required
+          env_key: "tcn2efq04seomoe62sn0f7dk5", // required
           // Metadata fields
           player_name: "Main Player", // any arbitrary string you want to use to identify this player
-          player_init_time: initTime
+          player_init_time: initTime,
           // ...
-        }
+        },
       });
+      // Debugger;
     }
 
     return () => {

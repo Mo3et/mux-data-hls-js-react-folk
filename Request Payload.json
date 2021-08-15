@@ -1,0 +1,168 @@
+// XHR Request Payload for 1000ms
+{
+  "events": [
+    {
+      "mapve": "2.1",
+      "mem": "mux-embed",
+      "memve": "4.1.1",
+      "udvcg": "",
+      "pinid": "fc0e5be4-0ce3-466a-acc8-0b8fc59c482c",
+      "msara": 1,
+      "bdm": "litix.io",
+      "psqno": 3,
+      "xsqno": 3,
+      "pispa": false,
+      "pphti": 0,
+      "pwd": 376,
+      "pht": 211,
+      "pauon": false,
+      "ppron": "metadata",
+      "vsodu": 10154,
+      "vsoht": 720,
+      "vsowd": 1280,
+      "uti": 1628780884540.2,
+      "psw": "HTML5 Video Element",
+      "pswve": "No Versions",
+      "pmxpinm": "VideoElementMonitor",
+      "pmxpive": "4.1.1",
+      "ake": "tcn2efq04seomoe62sn0f7dk5",
+      "pnm": "Main Player",
+      "piiti": 1628780873350,
+      "xid": "525d3c4b-e773-4155-b304-997809e210bd",
+      "vid": "bXV4LmNhaXRvdXl1bi5jb20vdW5kZWZpbmVk",
+      "xmaphps": 0,
+      "xwati": 0,
+      "pvwco": 1,
+      "xst": 1628780884540.2,
+      "vsoisli": false,
+      "sid": "2d28003c-e300-41c0-a82f-74832f82c76e",
+      "sst": "1628780801908.3",
+      "sex": 1628782384541.3,
+      "mvrid": "d5ffcfc0-728d-4ed0-bb90-e2cfb1aef9b8",
+      "msano": "0.7219504715011147",
+      "e": "viewstart",
+      "wur": "https://mux.caitouyun.com/",
+      "vpour": "",
+      "vsour": "MSE style URL"
+    }
+  ]
+};
+
+// XHR Request Payload for 6000ms
+{
+  "events": [
+    {
+      "mapve": "2.1",
+      "pinid": "b4c847d8-f2bd-41d4-83bc-4902b4043591",
+      "bdm": "litix.io",
+      "psqno": 4,
+      "xsqno": 4,
+      "pphti": 0,
+      "uti": 1628785938246.2,
+      "ake": "tcn2efq04seomoe62sn0f7dk5",
+      "xid": "614942a9-a107-46a1-82ea-c2c119c034ce",
+      "vid": "bXV4LmNhaXRvdXl1bi5jb20vdW5kZWZpbmVk",
+      "sex": 1628787438249,
+      "e": "play"
+    },
+    {
+      "mapve": "2.1",
+      "pinid": "b4c847d8-f2bd-41d4-83bc-4902b4043591",
+      "bdm": "litix.io",
+      "psqno": 5,
+      "xsqno": 5,
+      "pphti": 0,
+      "uti": 1628785938249.6,
+      "ake": "tcn2efq04seomoe62sn0f7dk5",
+      "xid": "614942a9-a107-46a1-82ea-c2c119c034ce",
+      "vid": "bXV4LmNhaXRvdXl1bi5jb20vdW5kZWZpbmVk",
+      "xwati": 4,
+      "xtitofifr": 4,
+      "sex": 1628787438250.4,
+      "e": "playing"
+    }
+  ]
+}
+
+// XHR Request Payload for 11000ms
+{
+  "events": [
+    {
+      "mapve": "2.1",
+      "pinid": "b4c847d8-f2bd-41d4-83bc-4902b4043591",
+      "bdm": "litix.io",
+      "psqno": 6,
+      "xsqno": 6,
+      "pphti": 9950,
+      "uti": 1628785948252.3,
+      "ake": "tcn2efq04seomoe62sn0f7dk5",
+      "xid": "614942a9-a107-46a1-82ea-c2c119c034ce",
+      "vid": "bXV4LmNhaXRvdXl1bi5jb20vdW5kZWZpbmVk",
+      "xmaphps": 9945,
+      "xwati": 10002.099853515625,
+      "xctpbti": 9945,
+      "xmauppe": 0,
+      "xmadope": 0.6097222222222223,
+      "xtlctpbti": 9950,
+      "xtlug": 0,
+      "xtldg": 6066.736111111111,
+      "sex": 1628787448253.4,
+      "e": "hb"
+    },
+    {
+      "mapve": "2.1",
+      "pinid": "b4c847d8-f2bd-41d4-83bc-4902b4043591",
+      "bdm": "litix.io",
+      "psqno": 7,
+      "xsqno": 7,
+      "pispa": true,
+      "pphti": 10154,
+      "vsoht": 1080,
+      "vsowd": 1920,
+      "uti": 1628785948447.3,
+      "ake": "tcn2efq04seomoe62sn0f7dk5",
+      "xid": "614942a9-a107-46a1-82ea-c2c119c034ce",
+      "vid": "bXV4LmNhaXRvdXl1bi5jb20vdW5kZWZpbmVk",
+      "xmaphps": 10154,
+      "xwati": 10203.2998046875,
+      "xctpbti": 10154,
+      "xtlctpbti": 10154,
+      "xtldg": 6191.1194444444445,
+      "sex": 1628787448449.7,
+      "e": "pause"
+    },
+    {
+      "mapve": "2.1",
+      "pinid": "b4c847d8-f2bd-41d4-83bc-4902b4043591",
+      "bdm": "litix.io",
+      "psqno": 8,
+      "xsqno": 8,
+      "pphti": 10154,
+      "uti": 1628785948451.8,
+      "ake": "tcn2efq04seomoe62sn0f7dk5",
+      "xid": "614942a9-a107-46a1-82ea-c2c119c034ce",
+      "vid": "bXV4LmNhaXRvdXl1bi5jb20vdW5kZWZpbmVk",
+      "sex": 1628787448453.1,
+      "e": "ended"
+    }
+  ]
+}
+
+//     POST / HTTP/1.1
+// Host: tcn2efq04seomoe62sn0f7dk5.litix.io
+// Connection: keep-alive
+// Content-Length: 894
+// Pragma: no-cache
+// Cache-Control: no-cache
+// sec-ch-ua: "Chromium";v="92", " Not A;Brand";v="99", "Google Chrome";v="92"
+// sec-ch-ua-mobile: ?0
+// User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36
+// Content-Type: application/json
+// Accept: */‘*’
+// Origin: https://mux.caitouyun.com
+// Sec-Fetch-Site: cross-site
+// Sec-Fetch-Mode: cors
+// Sec-Fetch-Dest: empty
+// Referer: https://mux.caitouyun.com/
+// Accept-Encoding: gzip, deflate, br
+// Accept-Language: zh-CN,zh;q=0.9
