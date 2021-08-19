@@ -9,6 +9,14 @@
 
 ~~Analysis~~
 
+#### 5 playback metrics:
+
+- [Overall Viewer Experience](https://docs.mux.com/guides/data/overall-viewer-experience-metric)
+- [Playback Success](https://docs.mux.com/guides/data/playback-success-metric)
+- [Startup Time](https://docs.mux.com/guides/data/startup-time-metric)
+- [Smoothness](https://docs.mux.com/guides/data/smoothness-metric)
+- [Video Quality](https://docs.mux.com/guides/data/video-quality-metric)
+
 #### 问题分析：
 
 1.  
@@ -21,6 +29,7 @@ or
    - 获取视频
    - 通过mux.monitor来让mux监控对应的视频 
    - 获取meta Data的S
+   - 
 
 
 
