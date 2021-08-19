@@ -27,7 +27,7 @@ export default function VideoPlayer() {
       }
 
       mux.monitor(video, {
-        debug: true,
+        debug: false,
         // pass in the 'hls' instance and the 'Hls' constructor
         hlsjs: hls,
         Hls,
